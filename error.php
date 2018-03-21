@@ -1,0 +1,3 @@
+DB error...
+
+<a href="index.php">Go back</a>
